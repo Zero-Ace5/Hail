@@ -15,7 +15,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.aistra.hail"
+        applicationId = "com.freeze.and"
         minSdk = 23
         targetSdk = 35
         versionCode = 33
